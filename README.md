@@ -1,7 +1,7 @@
 <h1 align="center">AK</h1>
 <h3 align="center">Amit Krishnan M</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kl09joker&label=Profile%20views&color=0e75b6&style=flat" alt="syno-sy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kl09joker&label=Profile%20views&color=0e75b6&style=flat" alt="AK" /> </p>
 
 # Languages:
 
